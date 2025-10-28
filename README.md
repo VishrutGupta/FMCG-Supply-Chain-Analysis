@@ -2,10 +2,6 @@
 
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFiZGRiOTMtMjllNS00ZGFjLWI1NjItOTgzZjc3MDA0NDkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-[Video Presentation HD](https://www.youtube.com/embed/ccVVqyDH2vA?si=M90reYfy6Lwg5rrg)
-
-[LinkedIn Post](https://www.linkedin.com/posts/mrajesh1312_codebasicsresumeprojectchallenge2-codebasicsresumeprojectchallenge2-activity-7135553059589398528-ZjQc?utm_source=share&utm_medium=member_desktop)
-
 [This Project Resources](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ***
@@ -65,13 +61,6 @@
    **Volume Fill Rate (VOFR)%**
 - The team monitors **Total Order** and **Total Order Lines** for daily customer orders.
 - These metrics are compared against the target service levels established for each customer.
-
-***
-## My Role in this project
-
-- Hi, **I’m Rajesh**, the data analyst in the supply chain team at AtliQ Mart. 
-- I recently joined the company and briefed about the task in the stakeholder business review meeting. 
-- Today, I'm excited to discuss the role I'll be building a dashboard to address the supply chain challenges.
 
 ***
 ## Data sets
