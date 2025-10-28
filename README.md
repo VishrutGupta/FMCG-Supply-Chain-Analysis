@@ -187,7 +187,7 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 ### Key Metrics By Cities
 
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/Spite%20by%20city.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/Spite%20by%20city.png">
 
 - Ahmedabad, Surat, and Vadodara are not meeting the targets for On-time Delivery (OT%) and On Time in Full (OTIF%), highlighting performance gaps in these areas.
 
@@ -200,7 +200,7 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 ### Product Insights
 
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/Product%20insights.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/Product%20insights.png">
 
 - Some products may not be fully delivered (LIFR%: 66%), while most of the ordered volume is fulfilled (VOFR%: 97%).
 
@@ -214,7 +214,7 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 
 
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/Customers%20insights.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/Customers%20insights.png">
   
 - Key customers like Cool Blue, Acclaimed Stores, and Lotus Mart are experiencing delays in receiving their orders on time, indicating potential issues with delivery timelines.
 
@@ -231,15 +231,15 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 #### On Time% (OT%) and Targets
 
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/OT%25%20and%20Target.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/OT%25%20and%20Target.png">
 
 #### In Full% (If%) and Target
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/IF%25%20and%20Target.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/IF%25%20and%20Target.png">
 
 #### On Time In Full% (OTIF%) and Target
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/OTIF%25%20and%20Target.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/OTIF%25%20and%20Target.png">
   
 - The key performance metrics, including On-time Delivery (OT%), In-full Delivery (IF%), and On Time in Full (OTIF%), have not reached their targets over time.
 
@@ -252,7 +252,7 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 ### Delay Deliveries
 
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/Delay%20delivery-%20supply%20chain%20analysis.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/Delay%20delivery-%20supply%20chain%20analysis.png">
 
 - 37k orders are delivered on time, the largest segment.
 - 3.6k orders arrive a day early, showing some early deliveries.
@@ -265,7 +265,7 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 ### Total order lines with LIFR % of the customers 
 
 <img width="600" alt="image" 
-  src="https://github.com/rajeshkumar1312/FMCG-Supply-Chain-Analysis/blob/main/Resources/Order%20lines-%20Supply%20chain%20analysis.png">
+  src="https://github.com/VishrutGupta/FMCG-Supply-Chain-Analysis/blob/main/Resources/Order%20lines-%20Supply%20chain%20analysis.png">
 
 - Vijay Stores, Rel Fresh, Lotus Mart, Propel Mart, and Acclaim Stores have the highest total order lines among customers.
 
